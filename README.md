@@ -1,7 +1,7 @@
 SparkFun Lipo Charger Basic - miniUSB
 =======================================
 
-![SparkFun Lipo Charger Basic - miniUSB](URL for picture of part)
+![SparkFun Lipo Charger Basic - miniUSB](https://cdn.sparkfun.com//assets/parts/4/8/6/3/10401-05.jpg)
 [*SparkFun Lipo Charger Basic - miniUSB (PRT-10401)*](https://www.sparkfun.com/products/10401)
 
 If you need to charge LiPo batteries, this simple charger will do just that. It is designed to charge single-cell Li-Ion or Li-Polymer batteries.
